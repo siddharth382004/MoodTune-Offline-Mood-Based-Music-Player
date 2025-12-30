@@ -1,6 +1,6 @@
 # MoodTune
 
-![MoodTune App]
+
 
 
 MoodTune is a simple music player Android app that recommends songs based on your mood. It uses the device's camera to detect your facial expression and suggests a song that matches how you're feeling.
